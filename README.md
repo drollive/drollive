@@ -3,7 +3,7 @@
 
 <img align="right" width="360" height="270" src="./gifs/coder.gif"/>
 
-- 🌱 I’m currently learning ** Ejs **
+- 🌱 I’m currently learning ** Web Development**
 - 💬 Ask me about **Python, Java, and Javascript**
 - 🏫 I'm currently a **BS Information Technology Student**
 - 👯 I’m looking to collaborate on **Open Source Projects**
